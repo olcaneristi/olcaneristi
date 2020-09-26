@@ -1,9 +1,8 @@
-### Selam! 👋 Ben Oğulcan Erişti.
+#### Hey! 👋 I'm Ogulcan Eristi.
 
-**Akdeniz Universitesi Yonetim Bilisim Sistemleri 4. sinif** ogrencisiyim. Yazilim seruvenine lisede **HTML-CSS-JS** ile web sitesi yaparak basladim.
-Su anda **Frontend Developer** olma yolunda ugraslarim devam etmekte. Ote yandan **Makine Ogrenmesi** alaninda projeler yaparak bu alanda da kendimi gelistiriyorum. <br/>
+I'm a **4th year student** at *Akdeniz University Management Information Systems*. I started web development in high school by building a website with HTML, CSS, and JavaScript. Also currently **learning React** and developing pixel-perfect, high performance websites.
 
-Hakkimda daha fazla detay ogrenmek ve yazilarimi okumak icin **[Blog sayfami](https://medium.com/@olcaneristi)** ziyaret edebilir, **[Web sayfam](https://ogulcaneristi.com/)** veya **[Twitter](https://twitter.com/ogulcaanX)** uzerinden benimle iletisime gecebilirsiniz. 
+**[Website](https://ogulcaneristi.com/)** - **[Blog](https://medium.com/@olcaneristi)** - **[Linkedin](https://www.linkedin.com/in/ogulcaneristi/)** - **[Twitter](https://twitter.com/ogulcaanX)** 
 
 See ya! 🤙
 
