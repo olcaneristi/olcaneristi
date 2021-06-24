@@ -6,4 +6,4 @@ I'm a **4th year student** at *Akdeniz University, Management Information System
 
 See ya! 🤙
 
-![gifyu](https://s7.gifyu.com/images/ezgif.com-gif-maker1573f56094d9a15f.gif)
+![gifyu](https://media.giphy.com/media/ui1hpJSyBDWlG/giphy.gif)
