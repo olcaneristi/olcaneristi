@@ -1,6 +1,8 @@
 #### Hey! 👋 I'm Ogulcan Eristi.
 
-I just graduated at *Akdeniz University, Management Information Systems*. I started web development in high school by building websites with HTML, CSS, and JavaScript. Learning **React Native & TypeScript** and building pixel-perfect, high performance websites with React.js. Currently building Cross-platform mobile application using React Native.
+I'm a Frontend Developer who builds interfaces for users to have great experiences, trying to improve myself on the web and enjoys it. I'm known for my calmness but I get very excited about new ideas.
+
+I've experienced HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js and React Native while working as a Frontend Developer.
 
 **[Website](https://www.ogulcaneristi.com)** - **[Linkedin](https://www.linkedin.com/in/ogulcaneristi/)** - **[Twitter](https://twitter.com/olcaneristi)** - **[Blog](https://medium.com/@olcaneristi)**
 
