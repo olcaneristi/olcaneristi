@@ -4,7 +4,7 @@ I'm a Frontend Developer with almost 1.5 years of relevant work experience, buil
 
 I've experienced HTML, CSS, SCSS, JavaScript, TypeScript, React, Next.js and React Native while working as a Frontend Developer.
 
-**[Website](https://www.ogulcaneristi.com)** - **[Linkedin](https://www.linkedin.com/in/ogulcaneristi/)** - **[Twitter](https://twitter.com/olcaneristi)** - **[Blog](https://medium.com/@olcaneristi)**
+**[Website](https://www.ogulcaneristi.dev)** - **[Linkedin](https://www.linkedin.com/in/ogulcaneristi/)** - **[Twitter](https://twitter.com/olcaneristi)** - **[Blog](https://medium.com/@olcaneristi)**
 
 See ya! 🤙
 
