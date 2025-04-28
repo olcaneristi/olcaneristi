@@ -1,6 +1,6 @@
 #### Hey! 👋 I'm Ogulcan Eristi.
 
-I'm a Frontend Developer with almost 3 years of relevant work experience, building pretty UI's for users to have great experiences, constantly continues to improve himself on the web & mobile and enjoys it. I'm known for my calmness but I get very excited about new ideas.
+Frontend Developer with 4 years of experience in building seamless and visually engaging interfaces for web and mobile applications. Passionate about user experience and innovation, always eager to learn and explore new technologies to build highperformance applications—constantly pushing the limits of frontend development.
 
 I've experienced HTML, CSS, SCSS, JavaScript, TypeScript, React.js, Next.js and React Native while working as a Frontend Developer.
 
